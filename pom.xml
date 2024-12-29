@@ -21,6 +21,7 @@
     </dependency>
   </dependencies>
     <build>
+      <!-- demo -->
         <finalName>java-example</finalName>
         <plugins>
 <!--             <plugin>
